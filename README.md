@@ -1,4 +1,6 @@
-# DSA Course Solutions
+# S30 DSA (2023)
+
+> Archive of my 2023 work. Not actively maintained.
 
 My solutions to the [Super30](https://github.com/super30admin) interview-prep course assignments (Java, Dec 2022 – Feb 2023). Each folder was originally a fork of the course's assignment repo and was imported here with its full commit history.
 
